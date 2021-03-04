@@ -59,7 +59,7 @@ namespace TailSpin.SpaceGame.Web.Controllers
 
             try
             {
-                // Form the query predicate.
+                // Form the query predicate. Testing
                 // This expression selects all scores that match the provided game 
                 // mode and region (map).
                 // Select the score if the game mode or region is empty.
